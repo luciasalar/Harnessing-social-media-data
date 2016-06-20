@@ -13,3 +13,4 @@ Topicmodels:https://github.com/trinker/topicmodels_learning
 
 # References
 LDA topic modeling with R: https://eight2late.wordpress.com/2015/09/29/a-gentle-introduction-to-topic-modeling-using-r/
+More LDA: https://www.quora.com/What-is-a-good-explanation-of-Latent-Dirichlet-Allocation
